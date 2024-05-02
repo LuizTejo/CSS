@@ -1,0 +1,50 @@
+*{
+    color: white;
+}
+body{
+    margin: 0;
+    background-color: black;
+}
+
+.topo{
+    background-color: rgb(65, 63, 63);
+    padding: 20px;
+    text-align: center;
+}
+
+#darkMode{
+    text-align: left;
+    background-color: rgb(65, 63, 63);
+    padding: 0px;
+    color: red;
+}
+
+.preparo{
+   border-style: outset;
+   border-width: 5px 20px;
+   background-color: black;
+}
+
+.descricao{
+    text-align: inherit;
+}
+
+.ingredientes{
+    background-color: rgb(65, 63, 63);
+    padding: 20px;
+}
+
+table, th, td {
+    border: 1px solid;
+  }
+
+  .destaque{
+    background-color: rgb(65, 63, 63);
+    padding: 10px;
+    color: red;
+  }
+
+  .lista{
+    border-style: outset;
+    border-bottom: 1px;
+  }
