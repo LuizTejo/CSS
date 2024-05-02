@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin:0;
+}
+
+.topo{
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 20px;
+}
+
+table, th, td{
+    border: 1px solid;
+    overflow-x: auto;
+}
+
+.candidato{
+    float: left;
+    width: 33.33%;
+    padding: 15px;
+}
+
+.nota{
+    background-color: green;
+}
