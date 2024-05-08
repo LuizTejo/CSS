@@ -1,0 +1,13 @@
+body {
+    background-image: linear-gradient(90deg, tomato, red, yellow);
+}
+
+li::marker{
+    color: blueviolet;
+    font-size: 20px;
+}
+
+.teste::marker{
+    color: red;
+    font-size: 20px;
+}
