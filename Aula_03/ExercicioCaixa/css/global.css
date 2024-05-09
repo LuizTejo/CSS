@@ -1,0 +1,21 @@
+.container{
+    padding: 100px;
+    display: flex;
+}
+
+.cartaz {
+    margin: 5px;
+    border: 2px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+.cartaz img {
+    width: 100%;
+    height: auto;
+}
+
+.filme {
+    padding: 5px;
+    text-align: center;
+}

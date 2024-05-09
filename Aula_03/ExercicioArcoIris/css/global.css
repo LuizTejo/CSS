@@ -1,0 +1,32 @@
+.container{
+    width: 50%;
+    border: 1px solid black;
+}
+
+.l1{
+    background-color: red;
+}
+
+.l2{
+    background-color: orange;
+}
+
+.l3{
+    background-color: yellow
+}
+
+.l4{
+    background-color: green;
+}
+
+.l5{
+    background-color: blue;
+}
+
+.l6{
+    background-color: indigo; 
+}
+
+.l7{
+    background-color: violet;
+}
