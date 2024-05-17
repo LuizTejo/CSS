@@ -1,0 +1,28 @@
+.barra {
+    border-radius: 25px;
+    border: 2px solid green;
+    padding: 5px;
+    width: 100px;
+    height: 10px;
+    animation-name: loading;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    animation-direction: forwards;
+    animation-play-state: running;
+}
+
+
+@keyframes loading {
+    from {
+        width: 0px;
+        background-color: red;
+    }
+    to {
+        width: 300px;
+        background-color: blue;
+    }
+}
+
+.animacao {
+    
+}
